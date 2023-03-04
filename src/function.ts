@@ -12,3 +12,4 @@ function calculareTax1(income: number, taxYear = 2022): number {
 }
 
 console.log(calculareTax(40_000, 2022));
+console.log(calculareTax1(40_000, 2020));
