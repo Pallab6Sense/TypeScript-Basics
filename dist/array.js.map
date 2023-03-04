@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "array.js",
+  "sourceRoot": "",
+  "sources": [
+    "../src/array.ts"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAI,GAAG,GAAa,CAAC,CAAC,EAAE,CAAC,EAAE,CAAC,EAAE,CAAC,CAAC,CAAC;AAEjC,MAAM,SAAS,GAAG,GAAG,CAAC,GAAG,CAAC,CAAC,GAAG,EAAE,EAAE;IAChC,OAAO,CAAC,GAAG,CAAC,GAAG,CAAC,CAAC;AACnB,CAAC,CAAC,CAAC"
+}
